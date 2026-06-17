@@ -46,7 +46,7 @@ GSM Module (SIM900)
 16x2 LCD Display
 DC Motor / Fan
 Buzzer
-Power Supply Unit
+
 
 Software Tools
 
