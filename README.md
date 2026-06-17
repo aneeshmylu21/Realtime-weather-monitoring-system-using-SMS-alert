@@ -1,4 +1,4 @@
-# Realtime-weather-monitoring-system-using-SMS-alert
+# Realtime-weather-monitoring-system-with-SMS-alert
 Overview
 
 A real-time embedded weather monitoring system developed using the ARM7 LPC2129 microcontroller. The system continuously monitors environmental temperature, displays real-time data on an LCD, and sends SMS alerts using a GSM module when abnormal temperature conditions are detected.
