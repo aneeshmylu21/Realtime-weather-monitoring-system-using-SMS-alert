@@ -89,6 +89,5 @@ Environmental Monitoring Systems
 Remote Alert Systems
 
 Author
-
 Aneesh Mylu 
 Electronics and Communication Engineering
